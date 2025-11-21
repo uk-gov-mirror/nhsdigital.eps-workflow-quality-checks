@@ -1,3 +1,5 @@
+# THIS PROJECT HAS BEEN ARCHIVED AND FUNCTIONALITY MOVED TO https://github.com/NHSDigital/eps-common-workflows
+
 # eps-workflow-quality-checks
 
 
